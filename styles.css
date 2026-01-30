@@ -1,5 +1,5 @@
 /* === Header logo sizing === */
-.tcs-logo { height: 60px; width: auto; display: block; image-rendering: -webkit-optimize-contrast; }
+.tcs-logo { height: 10px; width: auto; display: block; image-rendering: -webkit-optimize-contrast; }
 .topbar .brand { display: flex; align-items: center; gap: 10px; }
 
 /* === Base === */
