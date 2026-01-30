@@ -1,9 +1,0 @@
-
-User-agent: *
-Allow: /
-
-# Block sensitive files
-Disallow: /admin/
-Disallow: /private/
-
-Sitemap: https://tcstowing.co.za/sitemap.xml
