@@ -1,6 +1,6 @@
 /* === Header logo sizing === */
-.tcs-logo { height: 10px; width: auto; display: block; image-rendering: -webkit-optimize-contrast; }
-.topbar .brand { display: flex; align-items: center; gap: 10px; }
+.tcs-logo { height: 2px; width: auto; display: block; image-rendering: -webkit-optimize-contrast; }
+.topbar .brand { display: flex; align-items: center; gap: 2px; }
 
 /* === Base === */
 * { box-sizing: border-box; }
