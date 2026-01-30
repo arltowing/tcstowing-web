@@ -1,6 +1,0 @@
-
-User-agent: *
-Allow: /
-
-Sitemap: https://tcstowing.co.za/sitemap.xml
-# Generated: 2026-01-30
