@@ -48,13 +48,17 @@ input,select,textarea{background:#0b1117;color:#e9eef3;border:1px solid #243242;
   .hero-cta{flex-direction:column;align-items:stretch}
   
   .site-logo {
-  height: 42px;     /* adjust size as needed */
-  width: auto;
-  display: block;
+    height: 48px;      /* perfect size for header */
+    width: auto;
+    display: block;
+    object-fit: contain;
 }
-.brand {
-  display: flex;
-  align-items: center;
-  gap: 10px;
+
+.topbar .brand {
+    display: flex;
+    align-items: center;
+    gap: 12px;
 }
+
+  
 }
