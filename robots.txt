@@ -1,6 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /admin-
-Disallow: /seller-dashboard.html
-Disallow: /seller-listings.html
-Sitemap: https://marketplace.tcstowing.co.za/sitemap.xml
+
+Sitemap: https://tcstowing.co.za/sitemap.xml
