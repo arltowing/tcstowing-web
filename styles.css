@@ -143,3 +143,7 @@ button.cta{cursor:pointer}
 
 .quote{margin-top:12px;padding:12px 14px;border-radius:14px;background:rgba(47,118,255,.10);border:1px solid rgba(47,118,255,.25);color:var(--muted)}
 .hidden{display:none}
+
+/* HaulMatch transport link */
+.cta.haulmatch{background:linear-gradient(180deg,#f5c542 0%,#d89b16 100%);border-color:rgba(245,197,66,.75);color:#15110a}
+.cta.haulmatch:hover{filter:brightness(1.06)}

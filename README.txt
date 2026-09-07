@@ -11,3 +11,5 @@ Included:
 Deploy:
 - Copy contents to your hosting root or GitHub Pages repo.
 - Ensure robots.txt and sitemap.xml are at the site root.
+
+- HaulMatch link added to the main navigation and hero actions: https://haulmatch.wykiesautomation.co.za/
