@@ -12,5 +12,5 @@ Deploy:
 - Copy contents to your hosting root or GitHub Pages repo.
 - Ensure robots.txt and sitemap.xml are at the site root.
 
-- Mobile-friendly hamburger navigation, responsive CTAs, forms, gallery and footer.
-- Marketplace and HaulMatch remain accessible in the mobile menu.
+- Mobile-friendly hamburger navigation retained.
+- Temporary HaulMatch test tab removed; Marketplace remains available.
